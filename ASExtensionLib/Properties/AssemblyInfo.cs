@@ -6,13 +6,13 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 
 [assembly: AssemblyTitle("ASExtensionLib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A small set of .NET extensions I personally use on all projects")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Adrian Stanescu Programator PFA")]
 [assembly: AssemblyProduct("ASExtensionLib")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyCulture("en-US")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
